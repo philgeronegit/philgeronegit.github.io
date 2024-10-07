@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7475611.css",
+    "main.js": "/static/js/main.41f10590.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/portfolio.png": "/static/media/portfolio.0d23effce9c955f987b1.png",
+    "static/media/herobg.png": "/static/media/herobg.003e374923836a0dc7ff.png",
+    "static/media/star-trek.png": "/static/media/star-trek.412848d781487afba51f.png",
+    "static/media/herobg-gray.png": "/static/media/herobg-gray.02a3a08e763cf3fe7284.png",
+    "static/media/anasen.png": "/static/media/anasen.1fe65cfafe5ee279f91b.png",
+    "static/media/minesweeper.png": "/static/media/minesweeper.537dbae07e87cd942dbd.png",
+    "static/media/afpa.png": "/static/media/afpa.c3211022d633f0afdecb.png",
+    "static/media/sql.jpg": "/static/media/sql.c8b2174698a55c825fc4.jpg",
+    "static/media/stoic-app.png": "/static/media/stoic-app.6bd943438b8da6e37340.png",
+    "static/media/logo.png": "/static/media/logo.5b9123244d43e4e5e04b.png",
+    "static/media/stoic.png": "/static/media/stoic.73270b6142ada2a4c272.png",
+    "static/media/oop.png": "/static/media/oop.bfedec15180677c233fb.png",
+    "static/media/library.png": "/static/media/library.79fdc9380cb8b2741192.png",
+    "static/media/bny.png": "/static/media/bny.a20460992092df7d465a.png",
+    "static/media/github.png": "/static/media/github.ed1c06d925fff0b57e32.png",
+    "static/media/threejs.svg": "/static/media/threejs.a02bc572667de670fbfb2173c0331d05.svg",
+    "index.html": "/index.html",
+    "main.b7475611.css.map": "/static/css/main.b7475611.css.map",
+    "main.41f10590.js.map": "/static/js/main.41f10590.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7475611.css",
+    "static/js/main.41f10590.js"
+  ]
+}
