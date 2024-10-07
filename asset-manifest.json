@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7475611.css",
-    "main.js": "/static/js/main.41f10590.js",
-    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "main.css": "/static/css/main.ef98aa11.css",
+    "main.js": "/static/js/main.80f17471.js",
+    "static/js/206.4644f2ac.chunk.js": "/static/js/206.4644f2ac.chunk.js",
     "static/media/portfolio.png": "/static/media/portfolio.0d23effce9c955f987b1.png",
     "static/media/herobg.png": "/static/media/herobg.003e374923836a0dc7ff.png",
     "static/media/star-trek.png": "/static/media/star-trek.412848d781487afba51f.png",
@@ -19,13 +19,10 @@
     "static/media/bny.png": "/static/media/bny.a20460992092df7d465a.png",
     "static/media/github.png": "/static/media/github.ed1c06d925fff0b57e32.png",
     "static/media/threejs.svg": "/static/media/threejs.a02bc572667de670fbfb2173c0331d05.svg",
-    "index.html": "/index.html",
-    "main.b7475611.css.map": "/static/css/main.b7475611.css.map",
-    "main.41f10590.js.map": "/static/js/main.41f10590.js.map",
-    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.b7475611.css",
-    "static/js/main.41f10590.js"
+    "static/css/main.ef98aa11.css",
+    "static/js/main.80f17471.js"
   ]
 }
